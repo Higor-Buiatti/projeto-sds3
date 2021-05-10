@@ -45,7 +45,7 @@ function BarChart() {
                     },
                     series: [
                         {
-                            name: "Sccess",
+                            name: "% Success",
                             data: mySeries
                         }
                     ]
